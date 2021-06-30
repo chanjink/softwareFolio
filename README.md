@@ -44,11 +44,11 @@
 
 # _👍나의 장점 (Merits)_
 
-1. 빠른 학습력을 가지고 있다.
-2. 매사에 긍정적이다.
-3. 모든 일에 신중하려고 노력한다
-4. 부족한 점을 극복하려고 노력한다.
-5. 나 자신을 사랑한다.
+__1.__ 빠른 학습력을 가지고 있다.
+__2.__ 매사에 긍정적이다.
+__3.__ 모든 일에 신중하려고 노력한다.
+__4.__ 부족한 점을 극복하려고 노력한다.
+__5.__ 나 자신을 사랑한다.
 
 # _🖥경력 (Specaility)_
 
@@ -65,4 +65,5 @@
      - 깃허브(GitHub) : [chanjink님의 깃허브](https://github.com/chanjink)
 
 * __팀 블로그(Team Blog)__
-     - 숫자 맞추기 게임 팀 프로젝트 : [Up and Down](https://blog.naver.com/lsk9481/222364666614)
+
+     - 숫자 맞추기 게임 팀 프로젝트 : [Up and Down](https://blog.naver.com/lsk9481/222364666614) ([pptx](https://github.com/chanjink/softwareFolio/files/6737367/UP.AND.DOWN.5.24.pptx))
