@@ -10,7 +10,7 @@
 ***
 # _📌목차 (Chapter)_
 
-+ __[소개 (Introduce)](https://github.com/chanjink/softwareFolio#%EB%AA%A9%EC%B0%A8-chapter)__
++ __[소개 (Introduce)](https://github.com/chanjink/softwareFolio#%EF%B8%8F%EC%86%8C%EA%B0%9C-introduce)__
 + __[교육 (Education)](https://github.com/chanjink/softwareFolio/blob/main/README.md#%EA%B5%90%EC%9C%A1-education)__
 + __[자주 가는 사이트 (Usually Visited Sites)](https://github.com/chanjink/softwareFolio/blob/main/README.md#%EC%9E%90%EC%A3%BC-%EA%B0%80%EB%8A%94-%EC%82%AC%EC%9D%B4%ED%8A%B8-usually-visited-sites)__
 + __[나의 장점 (Merits)](https://github.com/chanjink/softwareFolio/blob/main/README.md#%EB%82%98%EC%9D%98-%EC%9E%A5%EC%A0%90-merits)__
