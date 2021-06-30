@@ -69,4 +69,4 @@ __5.__ 나 자신을 사랑한다.
      - 깃허브(GitHub) : [chanjink님의 깃허브](https://github.com/chanjink)
 
 * __팀 블로그(Team Blog)__
-     - 숫자 맞추기 게임 팀 프로젝트 : [Up and Down](https://blog.naver.com/lsk9481/222364666614)
+     - 숫자 맞추기 게임 팀 프로젝트 : [Up and Down](https://blog.naver.com/lsk9481/222364666614) ([pptx](https://github.com/chanjink/softwareFolio/files/6737380/UP.AND.DOWN.5.24.pptx))
